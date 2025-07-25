@@ -32,7 +32,7 @@ My verified certifications are available on [Credly](https://www.credly.com/user
 
 ## Connect
 
-Find me on [LinkedIn](www.linkedin.com/in/mj-valdez-256420324) to discuss collaboration opportunities or share ideas about technology and research.
+Find me on [LinkedIn](https://www.linkedin.com/in/mj-valdez-256420324) to discuss collaboration opportunities or share ideas about technology and research.
 
 ---
 

@@ -1,6 +1,6 @@
 # ELCRISHT
 
-**Computer Science Student | Scientific Researcher**
+**Computer Science Student | Scientific Researcher | Aspiring Civil Engineer**
 
 Welcome to my GitHub profile! I am committed to advancing technology through research and innovation. With a strong foundation in computer science, I focus on developing practical solutions to real-world challenges.
 

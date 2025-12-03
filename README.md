@@ -8,9 +8,10 @@ Welcome to my GitHub profile! I am committed to advancing technology through res
 
 ## Technical Skills
 
-- **Programming Languages:** Python, JavaScript, PHP, C#, AI
+- **Programming Languages:** Python, JavaScript, PHP, C#
 - **Frameworks & Libraries:** Next.js, Express, Flask, Django
 - **Database:** MySQL, SQL Server, Firebase
+- **Others:** Machine Learning, EDA, AI Automation, CRM
 
 ---
 
